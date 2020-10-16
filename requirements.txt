@@ -1,0 +1,7 @@
+python-telegram-bot
+-f https://download.pytorch.org/whl/torch_stable.html
+fastai==2.0.13
+torch==1.6.0+cpu
+torchvision==0.7.0+cpu
+ipython
+
